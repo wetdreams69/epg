@@ -8,13 +8,16 @@ permissions:
 jobs:
   main:
     runs-on: ubuntu-latest
-    container:
-      image: node:22-alpine
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
       - name: setup git
         run: |
-          apk add --no-cache git
+          git config user.name "iptv-bot[bot]"
+          git config user.email "84861620+iptv-bot[bot]@users.noreply.github.com"
       - name: install dependencies
         run: npm install
       - name: grab epg
