@@ -1,0 +1,29 @@
+name: argentina
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
+permissions:
+  contents: write
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    container:
+      image: node:22-alpine
+    steps:
+      - uses: actions/checkout@v4
+      - name: setup git
+        run: |
+          apk add --no-cache git
+      - name: install dependencies
+        run: npm install
+      - name: grab epg
+        run: npm run grab -- --channels argentina.channels.xml --days 2 --output guide.xml
+      - name: commit and push guide.xml
+        run: |
+          FILE=guide.xml
+          if [ -f "$FILE" ]; then
+            git add "$FILE"
+            git commit -m "Update guide.xml $(date +'%Y%m%d')" --no-verify
+            git push
+          fi

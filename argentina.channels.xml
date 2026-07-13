@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="cableplus.com.uy" site_id="8363" lang="es" xmltv_id="AdultSwim@Latam@SD">ADULT SWIM LATAM</channel>
+  <channel site="cableplus.com.uy" site_id="8327" lang="es" xmltv_id="UsaNetwork@Latam@SD">USA NETWORK</channel>
+  <channel site="gatotv.com" site_id="universal_cinema" lang="es" xmltv_id="UniversalCinema.us@SD">Universal Cinema</channel>
+  <channel site="gatotv.com" site_id="universal_comedy" lang="es" xmltv_id="UniversalComedy.us@SD">Universal Comedy</channel>
+  <channel site="gatotv.com" site_id="universal_crime" lang="es" xmltv_id="UniversalCrime.us@East">Universal Crime</channel>
+  <channel site="gatotv.com" site_id="universal_premiere" lang="es" xmltv_id="UniversalPremiere.us@East">Universal Premiere</channel>
+  <channel site="gatotv.com" site_id="universal_reality" lang="es" xmltv_id="UniversalReality.us@SD">Universal Reality</channel>
+  <channel site="mi.tv" site_id="ar#24-7-canal-de-noticias" lang="es" xmltv_id="247CanaldeNoticias.ar@SD">24/7 Canal de Noticias</channel>
+  <channel site="mi.tv" site_id="ar#26-tv" lang="es" xmltv_id="Canal26.ar@SD">Canal 26</channel>
+  <channel site="mi.tv" site_id="ar#a3cine" lang="es" xmltv_id="Atrescine.es@SD">Atrescine</channel>
+  <channel site="mi.tv" site_id="ar#a-e-mundo" lang="es" xmltv_id="AELatinAmerica.us@South">A&amp;E</channel>
+  <channel site="mi.tv" site_id="ar#amc" lang="es" xmltv_id="AMCLatinAmerica.us@SD">AMC</channel>
+  <channel site="mi.tv" site_id="ar#america-2-capital" lang="es" xmltv_id="AmericaTV.ar@SD">América TV</channel>
+  <channel site="mi.tv" site_id="ar#america-24" lang="es" xmltv_id="A24.ar@SD">A24</channel>
+  <channel site="mi.tv" site_id="ar#america-sports" lang="es" xmltv_id="AmericaSports.ar@SD">América Sports</channel>
+  <channel site="mi.tv" site_id="ar#animal-planet" lang="es" xmltv_id="AnimalPlanetLatinAmerica.us@SD">Animal Planet</channel>
+  <channel site="mi.tv" site_id="ar#argentinisima-satelital" lang="es" xmltv_id="ArgentinisimaSatelital.ar@SD">Argentinísima Satelital</channel>
+  <channel site="mi.tv" site_id="ar#atreseries" lang="es" xmltv_id="Atreseries.es@SD">Atreseries</channel>
+  <channel site="mi.tv" site_id="ar#axn" lang="es" xmltv_id="AXNLatinAmerica.us@South">AXN</channel>
+  <channel site="mi.tv" site_id="ar#babytv" lang="es" xmltv_id="BabyTV.uk@UK">BabyTV</channel>
+  <channel site="mi.tv" site_id="ar#boomerang-cartoon" lang="es" xmltv_id="CartoonitoLatinAmerica.us@Argentine">Cartoonito</channel>
+  <channel site="mi.tv" site_id="ar#c5n" lang="es" xmltv_id="C5N.ar@SD">C5N</channel>
+  <channel site="mi.tv" site_id="ar#canal-7-capital" lang="es" xmltv_id="TVPublica.ar@SD">TV Pública</channel>
+  <channel site="mi.tv" site_id="ar#canal-9" lang="es" xmltv_id="ElNueve.ar@SD">Canal 9</channel>
+  <channel site="mi.tv" site_id="ar#canal-a" lang="es" xmltv_id="CanalA.ar@SD">Canal á</channel>
+  <channel site="mi.tv" site_id="ar#canal-de-la-musica" lang="es" xmltv_id="CMElCanaldelaMusica.ar@SD">El Canal de la Música</channel>
+  <channel site="mi.tv" site_id="ar#canal-de-las-estrellas" lang="es" xmltv_id="LasEstrellasLatinAmerica.mx@SD">Las Estrellas</channel>
+  <channel site="mi.tv" site_id="ar#canal-luz" lang="es" xmltv_id="CanalLuz.ar@SD">Canal Luz</channel>
+  <channel site="mi.tv" site_id="ar#canal-orbe-21" lang="es" xmltv_id="CanalOrbe21.ar@SD">Canal Orbe 21</channel>
+  <channel site="mi.tv" site_id="ar#canal-rural" lang="es" xmltv_id="CanalRural.ar@SD">Canal Rural</channel>
+  <channel site="mi.tv" site_id="ar#cartoon-network" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us@SouthAtlantic">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="ar#cba-24n" lang="es" xmltv_id="CanalU.ar@SD">Canal U</channel>
+  <channel site="mi.tv" site_id="ar#cinecanal" lang="es" xmltv_id="Cinecanal.us@Panregional">Cinecanal</channel>
+  <channel site="mi.tv" site_id="ar#cinemax" lang="es" xmltv_id="CinemaxLatinAmerica.us@SD">Cinemax</channel>
+  <channel site="mi.tv" site_id="ar#cnn" lang="es" xmltv_id="CNNInternational.us@LatinAmerica">CNN</channel>
+  <channel site="mi.tv" site_id="ar#cnn-en-espanol" lang="es" xmltv_id="CNNenEspanol.us@SD">CNN en Español</channel>
+  <channel site="mi.tv" site_id="ar#comedy-central" lang="es" xmltv_id="ComedyCentralLatinAmerica.us@Panregional">Comedy Central</channel>
+  <channel site="mi.tv" site_id="ar#cronica" lang="es" xmltv_id="CronicaTV.ar@SD">Cronica</channel>
+  <channel site="mi.tv" site_id="ar#dhe" lang="es" xmltv_id="DHE.us@SD">DHE</channel>
+  <channel site="mi.tv" site_id="ar#discovery" lang="es" xmltv_id="DiscoveryChannelLatinAmerica.us@South">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="ar#discovery-civilization" lang="es" xmltv_id="DiscoveryCivilizationLatinAmerica.us@SD">Discovery Civilization</channel>
+  <channel site="mi.tv" site_id="ar#discovery-hd-charvz" lang="es" xmltv_id="DiscoveryHd@Latam@SD">Discovery HD</channel>
+  <channel site="mi.tv" site_id="ar#discovery-hd-theater" lang="es" xmltv_id="DiscoveryTheaterLatinAmerica.us@SD">Discovery Theater</channel>
+  <channel site="mi.tv" site_id="ar#discovery-home-and-health" lang="es" xmltv_id="DiscoveryHomeHealthLatinAmerica.mx@South">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="ar#discovery-kids" lang="es" xmltv_id="DiscoveryKidsLatinAmerica.us@Panregional">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="ar#discovery-science" lang="es" xmltv_id="DiscoveryScienceLatinAmerica.us@SD">Discovery Science</channel>
+  <channel site="mi.tv" site_id="ar#discovery-tlc" lang="es" xmltv_id="TLCLatinAmerica.us@South">TLC</channel>
+  <channel site="mi.tv" site_id="ar#discovery-turbo" lang="es" xmltv_id="DiscoveryTurboLatinAmerica.us@Panregional">Discovery Turbo</channel>
+  <channel site="mi.tv" site_id="ar#discovery-world-hd" lang="es" xmltv_id="DiscoveryWorld.us@LatinAmerica">Discovery World</channel>
+  <channel site="mi.tv" site_id="ar#disney" lang="es" xmltv_id="DisneyChannelLatinAmerica.ar@South">Disney Channel</channel>
+  <channel site="mi.tv" site_id="ar#disney-jr" lang="es" xmltv_id="DisneyJrLatinAmerica.ar@South">Disney Junior</channel>
+  <channel site="mi.tv" site_id="ar#disney-xd" lang="es" xmltv_id="DisneyXDLatinAmerica.us@Panregional">Disney XD</channel>
+  <channel site="mi.tv" site_id="ar#dxtv" lang="es" xmltv_id="DeporTV.ar@SD">DeporTV</channel>
+  <channel site="mi.tv" site_id="ar#el-garage" lang="es" xmltv_id="GarageTVLatinAmerica.ar@SD">El Garage Tv</channel>
+  <channel site="mi.tv" site_id="ar#el-gourmet" lang="es" xmltv_id="ElGourmet.ar@South">El Gourmet</channel>
+  <channel site="mi.tv" site_id="ar#el-trece" lang="es" xmltv_id="ElTrece.ar@SD">Canal 13</channel>
+  <channel site="mi.tv" site_id="ar#el-trece-satelital" lang="es" xmltv_id="ElTreceInternacionalLatinAmerica.ar@SD">Canal 13 (Satelital)</channel>
+  <channel site="mi.tv" site_id="ar#encuentro" lang="es" xmltv_id="Encuentro.ar@SD">Encuentro</channel>
+  <channel site="mi.tv" site_id="ar#entertainment" lang="es" xmltv_id="ELatinAmerica.us@Andes">E!</channel>
+  <channel site="mi.tv" site_id="ar#espn" lang="es" xmltv_id="ESPN.ar@SD">ESPN</channel>
+  <channel site="mi.tv" site_id="ar#espn-1" lang="es" xmltv_id="ESPNExtraLatinAmerica.us@Argentine">ESPN Extra</channel>
+  <channel site="mi.tv" site_id="ar#espn-2" lang="es" xmltv_id="ESPN2LatinAmerica.us@Argentina">ESPN 2</channel>
+  <channel site="mi.tv" site_id="ar#espn-3" lang="es" xmltv_id="ESPN3LatinAmerica.us@Argentina">ESPN 3</channel>
+  <channel site="mi.tv" site_id="ar#europa-europa" lang="es" xmltv_id="EuropaEuropa.ar@SD">Europa Europa</channel>
+  <channel site="mi.tv" site_id="ar#ewtn" lang="es" xmltv_id="EWTNEspana.es@SD">EWTN</channel>
+  <channel site="mi.tv" site_id="ar#film-arts" lang="es" xmltv_id="FilmArts.ar@Panregional">film&amp;arts</channel>
+  <channel site="mi.tv" site_id="ar#food-network" lang="es" xmltv_id="FoodNetworkLatinAmerica.us@Panregional">Food Network</channel>
+  <channel site="mi.tv" site_id="ar#fox" lang="es" xmltv_id="StarChannelLatinAmerica.us@South">Star Channel</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-2" lang="es" xmltv_id="FoxSports2.ar@SD">FOX Sports 2</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-3" lang="es" xmltv_id="FoxSports3LatinAmerica.us@Panregional">FOX Sports 3</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-cono-sur-capital" lang="es" xmltv_id="FoxSports@Argentina@SD">FOX Sports Cono Sur</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-hd" lang="es" xmltv_id="FoxSports.ar@SD">FOX Sports HD</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-premium" lang="es" xmltv_id="ESPNPremium.ar@SD">FOX Sports Premium</channel>
+  <channel site="mi.tv" site_id="ar#france-24-espanol" lang="es" xmltv_id="France24.fr@Spanish">France 24 en Español</channel>
+  <channel site="mi.tv" site_id="ar#fx" lang="es" xmltv_id="FXLatinAmerica.us@South">FX</channel>
+  <channel site="mi.tv" site_id="ar#fx-movies" lang="es" xmltv_id="FXM.us@East">FX Movies</channel>
+  <channel site="mi.tv" site_id="ar#galicia-tv" lang="es" xmltv_id="GaliciaTVAmerica.es@SD">Galicia TV</channel>
+  <channel site="mi.tv" site_id="ar#golden" lang="es" xmltv_id="Golden.mx@Panregional">Golden</channel>
+  <channel site="mi.tv" site_id="ar#golf-channel" lang="es" xmltv_id="GolfChannelLatinAmerica.us@SD">Golf Channel</channel>
+  <channel site="mi.tv" site_id="ar#h2" lang="es" xmltv_id="History2LatinAmerica.us@Panregional">History 2</channel>
+  <channel site="mi.tv" site_id="ar#hbo" lang="es" xmltv_id="HBOLatinAmerica.us@SD">HBO</channel>
+  <channel site="mi.tv" site_id="ar#hbo-2" lang="es" xmltv_id="HBO2LatinAmerica.us@SD">HBO 2</channel>
+  <channel site="mi.tv" site_id="ar#hbo-2-hd" lang="es" xmltv_id="HBO2LatinAmerica.us@SD">HBO 2 HD</channel>
+  <channel site="mi.tv" site_id="ar#hbo-family" lang="es" xmltv_id="HBOFamilyLatinAmerica.us@SD">HBO Family</channel>
+  <channel site="mi.tv" site_id="ar#hbo-family-hd" lang="es" xmltv_id="HBOFamilyLatinAmerica.us@SD">HBO Family HD</channel>
+  <channel site="mi.tv" site_id="ar#hbo-hd-este" lang="es" xmltv_id="HBOLatinAmerica.us@SD">HBO HD</channel>
+  <channel site="mi.tv" site_id="ar#hbo-oeste" lang="es" xmltv_id="HBOOeste@ar@SD">HBO Oeste</channel>
+  <channel site="mi.tv" site_id="ar#hbo-oeste-hd" lang="es" xmltv_id="HBOOesteHD@ar@SD">HBO Oeste HD</channel>
+  <channel site="mi.tv" site_id="ar#hbo-plus-este" lang="es" xmltv_id="HBOPlusLatinAmerica.us@SD">HBO Plus Este</channel>
+  <channel site="mi.tv" site_id="ar#hbo-plus-pan-regional" lang="es" xmltv_id="HBOPlus@PanRegional@SD">HBO Plus Panregional</channel>
+  <channel site="mi.tv" site_id="ar#hbo-plus-pan-regional-hd" lang="es" xmltv_id="HBOPlus@PanRegional@SD">HBO Plus Panregional HD</channel>
+  <channel site="mi.tv" site_id="ar#hbo-plus-panamericano-hd" lang="es" xmltv_id="HBOPlusLatinAmerica.us@SD">HBO Plus (Panamericano HD)</channel>
+  <channel site="mi.tv" site_id="ar#hbo-signature" lang="es" xmltv_id="HBOSignatureLatinAmerica.us@SD">HBO Signature</channel>
+  <channel site="mi.tv" site_id="ar#hbo-signature-hd" lang="es" xmltv_id="HBOSignatureLatinAmerica.us@SD">HBO Signature HD</channel>
+  <channel site="mi.tv" site_id="ar#hgtv" lang="es" xmltv_id="HGTVLatinAmerica.us@Panregional">HGTV</channel>
+  <channel site="mi.tv" site_id="ar#history" lang="es" xmltv_id="HistoryLatinAmerica.us@South">History</channel>
+  <channel site="mi.tv" site_id="ar#hola-tv" lang="es" xmltv_id="HolaTVLatinAmerica.us@SD">Hola TV</channel>
+  <channel site="mi.tv" site_id="ar#htv" lang="es" xmltv_id="HTV.us@SD">HTV</channel>
+  <channel site="mi.tv" site_id="ar#incaa-tv" lang="es" xmltv_id="CineAr.ar@SD">CineAr</channel>
+  <channel site="mi.tv" site_id="ar#investigation-discovery" lang="es" xmltv_id="InvestigationDiscoveryLatinAmerica.us@South">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="ar#ivc" lang="es" xmltv_id="IVCInternacional.ve@SD">IVC</channel>
+  <channel site="mi.tv" site_id="ar#la-nacion" lang="es" xmltv_id="LaNacionPlus.ar@SD">LN+</channel>
+  <channel site="mi.tv" site_id="ar#lifetime" lang="es" xmltv_id="LifetimeLatinAmerica.us@Panregional">Lifetime</channel>
+  <channel site="mi.tv" site_id="ar#magazine" lang="es" xmltv_id="CiudadMagazine.ar@SD">Ciudad Magazine</channel>
+  <channel site="mi.tv" site_id="ar#mas-chic" lang="es" xmltv_id="MasChic.ar@Panregional">Más Chic</channel>
+  <channel site="mi.tv" site_id="ar#max" lang="es" xmltv_id="HBOMundiLatinAmerica.us@SD">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="ar#max-prime" lang="es" xmltv_id="HBOXtremeLatinAmerica.us@SD">HBO Xtreme</channel>
+  <channel site="mi.tv" site_id="ar#max-prime-o" lang="es" xmltv_id="HBOXtreme@Oeste@SD">HBO Xtreme (Oeste)</channel>
+  <channel site="mi.tv" site_id="ar#max-prime-panamericano-hd" lang="es" xmltv_id="HBOXtremeHD@Panamericano@SD">HBO Xtreme (Panamericano HD)</channel>
+  <channel site="mi.tv" site_id="ar#max-prime-panregional-hd" lang="es" xmltv_id="HBOXtremeHD@Panregional@SD">HBO Xtreme (Panregional HD)</channel>
+  <channel site="mi.tv" site_id="ar#max-up" lang="es" xmltv_id="HBOPopLatinAmerica.us@SD">HBO Pop</channel>
+  <channel site="mi.tv" site_id="ar#metro" lang="es" xmltv_id="Metro.ar@SD">Metro</channel>
+  <channel site="mi.tv" site_id="ar#mtv" lang="es" xmltv_id="MTVLatinAmerica.us@Panregional">MTV</channel>
+  <channel site="mi.tv" site_id="ar#nat-geo-kids" lang="es" xmltv_id="NatGeoKidsLatinAmerica.us@Panregional">Nat Geo Kids</channel>
+  <channel site="mi.tv" site_id="ar#nat-geo-wild" lang="es" xmltv_id="NationalGeographicWildLatinAmerica.us@Panregional">National Geographic Wild</channel>
+  <channel site="mi.tv" site_id="ar#national-geographic" lang="es" xmltv_id="NationalGeographicLatinAmerica.us@South">National Geographic</channel>
+  <channel site="mi.tv" site_id="ar#nba-tv" lang="es" xmltv_id="NBATVLatinAmerica.us@SD">NBA TV</channel>
+  <channel site="mi.tv" site_id="ar#net-tv" lang="es" xmltv_id="NETTV.ar@SD">Net TV</channel>
+  <channel site="mi.tv" site_id="ar#nick-jr" lang="es" xmltv_id="NickJrLatinAmerica.us@South">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="ar#nickelodeon" lang="es" xmltv_id="NickelodeonLatinAmerica.us@Panregional">Nick</channel>
+  <channel site="mi.tv" site_id="ar#nickelodeon-hd" lang="es" xmltv_id="TeenNickLatinAmerica.us@SD">Nick 2</channel>
+  <channel site="mi.tv" site_id="ar#nicktoons" lang="es" xmltv_id="NicktoonsLatinAmerica.us@SD">NickToons</channel>
+  <channel site="mi.tv" site_id="ar#pakapaka" lang="es" xmltv_id="Pakapaka.ar@SD">Pakapaka</channel>
+  <channel site="mi.tv" site_id="ar#paramount-channel" lang="es" xmltv_id="ParamountNetworkLatinAmerica.us@Panregional">Paramount Network</channel>
+  <channel site="mi.tv" site_id="ar#pasiones" lang="es" xmltv_id="PasionesLatinAmerica.us@SD">Pasiones</channel>
+  <channel site="mi.tv" site_id="ar#playboy" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">Playboy</channel>
+  <channel site="mi.tv" site_id="ar#quiero" lang="es" xmltv_id="QuieroMusicaenmiIdioma.ar@SD">Quiero</channel>
+  <channel site="mi.tv" site_id="ar#rai" lang="es" xmltv_id="Rai1.it@SD">Rai Italia</channel>
+  <channel site="mi.tv" site_id="ar#sony" lang="es" xmltv_id="SonyChannelAndes.us@SD">Sony</channel>
+  <channel site="mi.tv" site_id="ar#sony-hd" lang="es" xmltv_id="SonyHD@ar@SD">Sony HD</channel>
+  <channel site="mi.tv" site_id="ar#space" lang="es" xmltv_id="Space.ar@Panregional">Space</channel>
+  <channel site="mi.tv" site_id="ar#studio-universal" lang="es" xmltv_id="StudioUniversalLatinAmerica.us@South">Studio Universal</channel>
+  <channel site="mi.tv" site_id="ar#telefe" lang="es" xmltv_id="Telefe.ar@SD">Telefe</channel>
+  <channel site="mi.tv" site_id="ar#telehit-lat" lang="es" xmltv_id="TeleHit.mx@SD">Telehit</channel>
+  <channel site="mi.tv" site_id="ar#telemax" lang="es" xmltv_id="Telemax.ar@SD">Telemax</channel>
+  <channel site="mi.tv" site_id="ar#telemundo" lang="es" xmltv_id="TelemundoInternacional.us@CentralAmerica">Telemundo Internacional</channel>
+  <channel site="mi.tv" site_id="ar#teleocho" lang="es" xmltv_id="TelefeCordoba.ar@SD">Telefe Córdoba</channel>
+  <channel site="mi.tv" site_id="ar#telesur" lang="es" xmltv_id="Telesur.ve@SD">teleSUR</channel>
+  <channel site="mi.tv" site_id="ar#tlnovelas" lang="es" xmltv_id="TlnovelasLatinAmerica.mx@SD">TLNovelas</channel>
+  <channel site="mi.tv" site_id="ar#tn" lang="es" xmltv_id="TN.ar@SD">TN</channel>
+  <channel site="mi.tv" site_id="ar#tnt" lang="es" xmltv_id="TNTLatinAmerica.us@South">TNT</channel>
+  <channel site="mi.tv" site_id="ar#tnt-series" lang="es" xmltv_id="TNTSeriesLatinAmerica.us@South">TNT Series</channel>
+  <channel site="mi.tv" site_id="ar#tnt-sports" lang="es" xmltv_id="TNTSports.ar@HD">TNT Sports</channel>
+  <channel site="mi.tv" site_id="ar#tooncast" lang="es" xmltv_id="Tooncast.us@SD">Tooncast</channel>
+  <channel site="mi.tv" site_id="ar#tyc-alternativa" lang="es" xmltv_id="TyCSports2.ar@SD">TyC Sports 2</channel>
+  <channel site="mi.tv" site_id="ar#tyc-sports" lang="es" xmltv_id="TyCSports.ar@SD">TyC Sports</channel>
+  <channel site="mi.tv" site_id="ar#universal-channel" lang="es" xmltv_id="UniversalTVLatinAmerica.us@South">Universal TV</channel>
+  <channel site="mi.tv" site_id="ar#venus" lang="es" xmltv_id="Venus.ar@SD">Venus</channel>
+  <channel site="mi.tv" site_id="ar#volver" lang="es" xmltv_id="Volver.ar@SD">Volver</channel>
+  <channel site="mi.tv" site_id="ar#warner-channel" lang="es" xmltv_id="WarnerChannel.us@South">Warner Channel</channel>
+  <channel site="reportv.com.ar" site_id="7000" lang="es" xmltv_id="DirecTVSportsPlus.us@Panregional">DSPORTS +</channel>
+  <channel site="reportv.com.ar" site_id="7001" lang="es" xmltv_id="DSports+HD@SD">DSPORTS + HD</channel>
+  <channel site="reportv.com.ar" site_id="6996" lang="es" xmltv_id="DSports@SD">DIRECTV SPORTS</channel>
+  <channel site="reportv.com.ar" site_id="6997" lang="es" xmltv_id="DsportsHD@SD">DIRECTV SPORTS HD</channel>
+  <channel site="reportv.com.ar" site_id="6998" lang="es" xmltv_id="DirecTVSports2.us@Panregional">DIRECTV SPORTS 2</channel>
+  <channel site="reportv.com.ar" site_id="6999" lang="es" xmltv_id="DSports2HD@SD">DIRECTV SPORTS 2 HD</channel>
+</channels>
