@@ -1,4 +1,4 @@
-name: argentina
+name: flow
 on:
   workflow_dispatch:
   schedule:
@@ -21,7 +21,7 @@ jobs:
       - name: install dependencies
         run: npm install
       - name: grab epg
-        run: npm run grab -- --channels argentina.channels.xml --days 2 --output guide.xml
+        run: npm run grab -- --channels flow.channels.xml --days 2 --output guide.xml
       - name: commit and push guide.xml
         run: |
           FILE=guide.xml
